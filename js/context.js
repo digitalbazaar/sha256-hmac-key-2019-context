@@ -7,7 +7,8 @@ module.exports = {
   '@context': {
     id: '@id',
     type: '@type',
-    '@protected': true
+    '@protected': true,
 
+    Sha256HmacKey2019: 'https://w3id.org/security#Sha256HmacKey2019'
   }
 };

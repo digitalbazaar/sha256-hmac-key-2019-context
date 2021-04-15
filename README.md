@@ -4,7 +4,7 @@
 [![Coverage status](https://img.shields.io/codecov/c/github/digitalbazaar/sha256-hmac-key-2019-context)](https://codecov.io/gh/digitalbazaar/sha256-hmac-key-2019-context)
 [![NPM Version](https://img.shields.io/npm/v/sha256-hmac-key-2019-context.svg)](https://npm.im/sha256-hmac-key-2019-context)
 
-> A JSON-LD context the Sha256HmacKey2019 crypto suite for JavaScript.
+> A JSON-LD context for the Sha256HmacKey2019 crypto suite for JavaScript.
 
 ## Table of Contents
 

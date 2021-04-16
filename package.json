@@ -1,6 +1,6 @@
 {
   "name": "sha256-hmac-key-2019-context",
-  "version": "1.0.2",
+  "version": "1.0.3-0",
   "description": "A JSON-LD context for the Sha256HmacKey2019 crypto suite for JavaScript.",
   "main": "js/index.js",
   "module": "./dist/context.esm.js",

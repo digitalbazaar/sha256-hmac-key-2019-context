@@ -39,7 +39,7 @@ const hmacCtx = require('sha256-hmac-key-2019-context');
 const {contexts, constants, appContextMap} = hmacCtx;
 
 hmacCtx.CONTEXT_URL
-// 'https://w3id.org/security/sha256-hmac-2019/v1'
+// 'https://w3id.org/security/suites/sha256-hmac-2019/v1'
 
 // Codec term map value for CBOR-LD
 hmacCtx.constants.CBORLD_CODEC_VALUE
